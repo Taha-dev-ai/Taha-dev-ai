@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://fb.com/muhammad taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad taha" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadtahakhan71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadtahakhan71" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@muhammadtaha3616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@muhammadtaha3616" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3T_Jlq8bwkt2lrFohN9DjQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@muhammadtaha3616" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
