@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    background-color: #081b31;
+    color: #fff;
+    height: 4rem;
+    line-height: 4rem; 
+    gap: 3rem;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.dice-1{
+    height: 300px;
+    padding-top: 3rem;
+    background-image: url(back-image.jpg); 
+    background-size: cover;
+}
+.All-dice{
+    
+    /* background-color:#faab45 ; */
+    height: 300px;
+ 
+}
+.button{
+    width: 150px;
+    height: 40px;
+    color: #fff;
+    background-color: #081b31;
+    font-weight:bold;
+    border-radius: 10px;
+    border: 2px solid black;
+    /* padding-top: 2rem; */
+}
+button:hover{
+    background-color:#134680 ;
+}
+.inner-btndiv{
+    padding-top: 2rem;
+}
+.outter-btndiv{
+    background-color: #222f3d;
+    height: 100px;
+}
+.score{
+    height:100px ;
+    padding-top: 1rem;
+    font-size: 2rem;
+    background-color:#0f1111;
+    color: #fff;
+}
+
+
