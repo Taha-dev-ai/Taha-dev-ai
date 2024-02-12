@@ -1,0 +1,15 @@
+/* #box{
+    height: 200px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: rgb(71, 192, 49);
+    color: beige;
+} */
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
